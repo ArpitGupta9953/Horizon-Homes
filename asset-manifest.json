@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Horizon-Homes/static/css/main.6db2c9fb.css",
+    "main.js": "/Horizon-Homes/static/js/main.efab0102.js",
+    "static/media/4.jpg": "/Horizon-Homes/static/media/4.5c3afeecf089ce48db65.jpg",
+    "static/media/main.jpeg": "/Horizon-Homes/static/media/main.c70b4f0a3a715f0806cc.jpeg",
+    "static/media/video1.mp4": "/Horizon-Homes/static/media/video1.454fcb52fdde180eb224.mp4",
+    "static/media/8.png": "/Horizon-Homes/static/media/8.64e8bc0825b9b9559cc8.png",
+    "static/media/service3.png": "/Horizon-Homes/static/media/service3.3df87116a6518f6c6c9d.png",
+    "static/media/7.png": "/Horizon-Homes/static/media/7.c04aebcd4035b07bee9c.png",
+    "static/media/2.png": "/Horizon-Homes/static/media/2.844abb73f5989e31752b.png",
+    "static/media/location.png": "/Horizon-Homes/static/media/location.d258bab9253606bdc401.png",
+    "static/media/6.png": "/Horizon-Homes/static/media/6.ccd2ed9437d533a7a19e.png",
+    "static/media/1.png": "/Horizon-Homes/static/media/1.7f6375a11558a00c3d21.png",
+    "static/media/service1.png": "/Horizon-Homes/static/media/service1.4cedacd498a61b8c7d52.png",
+    "static/media/3.png": "/Horizon-Homes/static/media/3.a3b122f8600e5cc52922.png",
+    "index.html": "/Horizon-Homes/index.html",
+    "main.6db2c9fb.css.map": "/Horizon-Homes/static/css/main.6db2c9fb.css.map",
+    "main.efab0102.js.map": "/Horizon-Homes/static/js/main.efab0102.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6db2c9fb.css",
+    "static/js/main.efab0102.js"
+  ]
+}
