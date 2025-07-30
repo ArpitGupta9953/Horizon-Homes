@@ -19,7 +19,7 @@ import PropertyDetails from "./components/pages/propertyDetails";
 import ProtectedRoute from "./components/ProtectedRoute";
 import './index.css'
 
-// Main Home Page Component with all sections
+
 const HomePage = () => {
   return (
     <div>
@@ -37,11 +37,11 @@ const HomePage = () => {
   );
 };
 
-// Main App Component with Routing
+
 function App() {
   return (
     <AuthProvider>
-      <Router>
+      <Router basename="/Horizon-Homes">
         <div className="App">
           <Toaster 
             position="top-right"
@@ -60,24 +60,24 @@ function App() {
             }}
           />
           <Routes>
-            {/* Home page route */}
+            
             <Route path="/" element={<HomePage />} />
             
-            {/* Authentication routes */}
+            
             <Route path="/login" element={<Login />} />
             <Route path="/signup" element={<Signup />} />
             
-            {/* Protected routes */}
+          
             <Route path="/profile" element={
               <ProtectedRoute>
                 <Profile />
               </ProtectedRoute>
             } />
             
-            {/* Property details route */}
+            
             <Route path="/property/:id" element={<PropertyDetails />} />
             
-            {/* Fallback route for any unmatched paths */}
+           
             <Route path="*" element={<HomePage />} />
           </Routes>
         </div>
