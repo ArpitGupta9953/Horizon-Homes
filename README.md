@@ -34,7 +34,7 @@ Horizon-Homes/
 │ └── (index.html, favicon, images, etc.)
 │
 ├── src/
-│ ├── assets/ # images, icons, static resources
+│ ├── assets/
 │ ├── components/ # reusable UI components
 │ │ ├── footer.js
 │ │ ├── navbar.js
@@ -57,8 +57,8 @@ Horizon-Homes/
 │ ├── context/
 │ │ └── AuthContext.js # global auth state
 │ │
-│ ├── App.js # main app component
-│ └── index.js # React entry point
+│ ├── App.js 
+│ └── index.js 
 │
 └── package.json
 
