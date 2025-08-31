@@ -29,35 +29,34 @@
 Horizon-Homes/
 │
 ├── public/
-│   └── (index.html, favicon, images, etc.)
+│ └── (index.html, favicon, images, etc.)
 │
 ├── src/
-│   ├── assets/                # images, icons, static resources
-│   │
-│   ├── components/            # reusable UI components
-│   │   ├── footer.js
-│   │   ├── navbar.js
-│   │   ├── ProtectedRoute.js
-│   │
-│   ├── pages/                 # all main page components
-│   │   ├── about.js
-│   │   ├── clients.js
-│   │   ├── contact.js
-│   │   ├── demo.js
-│   │   ├── features.js
-│   │   ├── home.js
-│   │   ├── login.js
-│   │   ├── onsale.js
-│   │   ├── profile.js
-│   │   ├── propertyDetails.js
-│   │   ├── service.js
-│   │   └── signup.js
-│   │
-│   ├── context/
-│   │   └── AuthContext.js     # global auth state
-│   │
-│   ├── App.js                 # main app component
-│   └── index.js               # React entry point
+│ ├── assets/ # images, icons, static resources
+│ ├── components/ # reusable UI components
+│ │ ├── footer.js
+│ │ ├── navbar.js
+│ │ └── ProtectedRoute.js
+│ │
+│ ├── pages/ # all main page components
+│ │ ├── about.js
+│ │ ├── clients.js
+│ │ ├── contact.js
+│ │ ├── demo.js
+│ │ ├── features.js
+│ │ ├── home.js
+│ │ ├── login.js
+│ │ ├── onsale.js
+│ │ ├── profile.js
+│ │ ├── propertyDetails.js
+│ │ ├── service.js
+│ │ └── signup.js
+│ │
+│ ├── context/
+│ │ └── AuthContext.js # global auth state
+│ │
+│ ├── App.js # main app component
+│ └── index.js # React entry point
 │
 └── package.json
 
