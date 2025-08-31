@@ -1,3 +1,4 @@
+'''
 # 🏡 Horizon Homes — React SPA
 
 **Horizon Homes** is a single-page React application for browsing properties, signing up/logging in, purchasing properties (demo flow), and managing a user profile with transaction history.  
@@ -26,7 +27,7 @@
 ---
 
 ## 📂 Project Structure
-'''
+
 Horizon-Homes/
 │
 ├── public/
@@ -60,7 +61,7 @@ Horizon-Homes/
 │ └── index.js # React entry point
 │
 └── package.json
-'''
+
 
 ---
 
@@ -77,4 +78,4 @@ npm install
 npm start    
 Runs on: http://localhost:3000
 
-
+'''
