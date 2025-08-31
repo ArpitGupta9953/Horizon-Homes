@@ -26,6 +26,7 @@
 ---
 
 ## 📂 Project Structure
+'''
 Horizon-Homes/
 │
 ├── public/
@@ -59,7 +60,7 @@ Horizon-Homes/
 │ └── index.js # React entry point
 │
 └── package.json
-
+'''
 
 ---
 
